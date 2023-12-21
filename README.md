@@ -24,3 +24,6 @@ en el desarrollo de proyectos de software."
 *Integrante 3*: Breve descripción...
 
 Hola mi nombre es José León, tengo 34 años, trabajo en la facultad de humanidades, "administrativo", me gusta el deporte mas especificamente el futbol, tambien tengo conociemto en programacion lo basico.
+
+*Integrante 4* :
+Hola mi nombre es Karen tengo 25 años soy Tec. en Redes Informaticas y estudiante en el profesorado de Educación inicial, tengo conocimiento básico con respecto a la programación
